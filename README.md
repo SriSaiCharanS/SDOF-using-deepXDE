@@ -1,1 +1,1 @@
-# SDOF-using-deepXDE
+ML for Physical systems
